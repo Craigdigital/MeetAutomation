@@ -38,8 +38,8 @@ try:
 except:
     print("Email locator failed")
 
-email = "mahesh.official.1711@gmail.com"
-password = "Nilap@1234"
+email = "MYGMAIL"
+password = "MYPASSWORD"
 meeting_id = "pqc-qosw-zag"
 # mute_xpath = "//*[@id=yDmH0d']/c-wiz/div/div/div[8]/div[3]/div/div/div[2]/div/div[1]/div[1]/div[1]/div/div[4]/div[1]/div/div/div/span"
 # video_xpath = "/html/body/div[1]/c-wiz/div/div/div[7]/div[3]/div/div/div[2]/div/div[1]/div[1]/div[1]/div/div[3]/div[2]/div/div/div[1]"
