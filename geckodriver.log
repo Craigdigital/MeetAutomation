@@ -1,0 +1,101 @@
+1608364233387	geckodriver	INFO	Listening on 127.0.0.1:57917
+1608364236423	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\mahes\\AppData\\Local\\Temp\\rust_mozprofileJR8gC9"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1608364240119	Marionette	INFO	Listening on port 57927
+1608364240570	Marionette	WARN	TLS certificate errors will be ignored for this session
+1608364245205	Marionette	INFO	Stopped listening on port 57927
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1608364260858	geckodriver	INFO	Listening on 127.0.0.1:58026
+1608364263891	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\mahes\\AppData\\Local\\Temp\\rust_mozprofilex3zTtD"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1608364266799	Marionette	INFO	Listening on port 58038
+1608364267016	Marionette	WARN	TLS certificate errors will be ignored for this session
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 190: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
+1608364274518	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: https://developers.google.com/oauthplayground/assets/js/ui_logic.js, line 147: TypeError: $(...).val() is undefined
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JCan't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1608364410466	Marionette	INFO	Listening on port 58830
+1608364410642	Marionette	WARN	TLS certificate errors will be ignored for this session
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 190: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: resource://gre/actors/AudioPlaybackParent.jsm, line 24: TypeError: browser is null
+JavaScript error: https://meet.google.com/_/scs/mss-static/_/js/k=boq-rtc.MeetingsUi.en.IxKTn9Ko72k.es5.O/am=QSBwRIBAMwLIfb8SAQYoDlxRAgAAgAAwJoBxAFAAAABAYxDmwf-BFAEARCsBAQBOIAFBAAQ/d=1/excm=_b,_tp,calldesktoppageview/ed=1/dg=0/wt=2/ct=zgms/rs=AL5CKSG1xI8QH_RMf1vjqsYUvcuipNOn_g/m=_b,_tp, line 576: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://meet.google.com/_/scs/mss-static/_/js/k=boq-rtc.MeetingsUi.en.IxKTn9Ko72k.es5.O/am=QSBwRIBAMwLIfb8SAQYoDlxRAgAAgAAwJoBxAFAAAABAYxDmwf-BFAEARCsBAQBOIAFBAAQ/d=1/excm=_b,_tp,calldesktoppageview/ed=1/dg=0/wt=2/ct=zgms/rs=AL5CKSG1xI8QH_RMf1vjqsYUvcuipNOn_g/m=_b,_tp, line 576: NS_ERROR_NOT_INITIALIZED: 
+1608364450991	Marionette	INFO	Stopped listening on port 58830
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1608364456360	geckodriver	INFO	Listening on 127.0.0.1:59025
+1608364459392	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\mahes\\AppData\\Local\\Temp\\rust_mozprofilejeM0m7"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1608364462489	Marionette	INFO	Listening on port 59052
+1608364462527	Marionette	WARN	TLS certificate errors will be ignored for this session
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 190: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: resource://gre/actors/AudioPlaybackParent.jsm, line 24: TypeError: browser is null
+JavaScript error: https://meet.google.com/_/scs/mss-static/_/js/k=boq-rtc.MeetingsUi.en.IxKTn9Ko72k.es5.O/am=QSBwBIBAMwLIfb8SAQYoDlxRAgAAgAAwJoBxAFAAAABAYxDmwf-BFAEARCsBAQBOAAFBAAQ/d=1/excm=_b,_tp,calldesktoppageview/ed=1/dg=0/wt=2/ct=zgms/rs=AL5CKSEuX4UBXsvjMPvDfoLE83S4v86NZA/m=_b,_tp, line 576: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://meet.google.com/_/scs/mss-static/_/js/k=boq-rtc.MeetingsUi.en.IxKTn9Ko72k.es5.O/am=QSBwBIBAMwLIfb8SAQYoDlxRAgAAgAAwJoBxAFAAAABAYxDmwf-BFAEARCsBAQBOAAFBAAQ/d=1/excm=_b,_tp,calldesktoppageview/ed=1/dg=0/wt=2/ct=zgms/rs=AL5CKSEuX4UBXsvjMPvDfoLE83S4v86NZA/m=_b,_tp, line 576: NS_ERROR_NOT_INITIALIZED: 
+1608364538885	Marionette	INFO	Stopped listening on port 59052
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1608364547756	geckodriver	INFO	Listening on 127.0.0.1:59322
+1608364550788	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\mahes\\AppData\\Local\\Temp\\rust_mozprofileILCpU8"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1608364553867	Marionette	INFO	Listening on port 59335
+1608364553925	Marionette	WARN	TLS certificate errors will be ignored for this session
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 190: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: resource://gre/actors/AudioPlaybackParent.jsm, line 24: TypeError: browser is null
+JavaScript error: https://meet.google.com/_/scs/mss-static/_/js/k=boq-rtc.MeetingsUi.en.IxKTn9Ko72k.es5.O/am=QSBwBIBAMwLIfb8SAQYoDlxRAgAAgAAwJoBxAFAAAABAYxDmwf-BFAEARCsBAQBuAAFBAAQ/d=1/excm=_b,_tp,calldesktoppageview/ed=1/dg=0/wt=2/ct=zgms/rs=AL5CKSFOG1QG6bDpM7IuX485KuyfPliK_g/m=_b,_tp, line 576: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://meet.google.com/_/scs/mss-static/_/js/k=boq-rtc.MeetingsUi.en.IxKTn9Ko72k.es5.O/am=QSBwBIBAMwLIfb8SAQYoDlxRAgAAgAAwJoBxAFAAAABAYxDmwf-BFAEARCsBAQBuAAFBAAQ/d=1/excm=_b,_tp,calldesktoppageview/ed=1/dg=0/wt=2/ct=zgms/rs=AL5CKSFOG1QG6bDpM7IuX485KuyfPliK_g/m=_b,_tp, line 576: NS_ERROR_NOT_INITIALIZED: 
+1608364880355	Marionette	INFO	Stopped listening on port 59335
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
