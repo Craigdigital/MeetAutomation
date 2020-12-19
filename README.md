@@ -1,6 +1,9 @@
 # Meet Automated Login and Exit
 
+### NOTE: CURRENTLY ONLY DEVELOPED FOR WINDOWS
+
 - download geckodriver for mozilla, chrome driver has issues
+  LINK HERE : [Geckodriver](https://github.com/mozilla/geckodriver/releases)
 
 - put it in same folder as meetautomate.py
 
